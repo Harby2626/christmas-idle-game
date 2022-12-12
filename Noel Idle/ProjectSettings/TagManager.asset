@@ -6,6 +6,8 @@ TagManager:
   tags:
   - h_menu_area
   - gather_area
+  - LR_border
+  - LR_border1
   layers:
   - Default
   - TransparentFX
